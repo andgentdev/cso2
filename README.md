@@ -1,4 +1,4 @@
-# CSO2 (v2.2) — Transparent PNG Overlay for Windows
+# CSO2 (Custom Screen Overlay v2.2) — Transparent PNG Overlay for Windows
 
 CSO2 is a lightweight Windows utility that displays PNG images as transparent, always-on-top overlays.
 It is designed for quick visual reference, graphic comparison, and desktop overlay workflows.
@@ -24,6 +24,7 @@ If you just want to use CSO2 without installing Python, download the prebuilt ex
 
 ### Run
 
+- Set cso2.2.exe as default software to open .png files, or
 - Drag and drop a PNG file onto the executable, or
 - Run from command line:
 
